@@ -1,0 +1,5 @@
+# Dockerfile for MongoDB
+FROM mongo:latest
+
+# Expose port
+EXPOSE 27017
